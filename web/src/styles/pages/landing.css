@@ -1,0 +1,19 @@
+#page-landing {
+  width: 100vw;
+  height: 100vh;
+  background: #F7F7F7;
+}
+
+.sec01 .logoinicio {
+  margin-top: 65px;
+  margin-left: 50px;
+}
+
+.sec01 .text01 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: roboto;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+/*# sourceMappingURL=landing.css.map */
