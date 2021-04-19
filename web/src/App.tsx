@@ -20,7 +20,7 @@ function App() {
               </main>
             </Col>
           </Row>
-        </Container>
+        </Container> 
 
       </div>
     </div>
